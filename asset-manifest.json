@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4e0e4d8d.chunk.css",
-    "main.js": "/static/js/main.c3250b94.chunk.js",
-    "main.js.map": "/static/js/main.c3250b94.chunk.js.map",
+    "main.js": "/static/js/main.2dc6a779.chunk.js",
+    "main.js.map": "/static/js/main.2dc6a779.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5016f14.js",
     "runtime-main.js.map": "/static/js/runtime-main.a5016f14.js.map",
     "static/js/2.fbadaeb8.chunk.js": "/static/js/2.fbadaeb8.chunk.js",
     "static/js/2.fbadaeb8.chunk.js.map": "/static/js/2.fbadaeb8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b97722a8b861daf3c8926497ea679ef5.js": "/precache-manifest.b97722a8b861daf3c8926497ea679ef5.js",
+    "precache-manifest.261a9f9a182e789db2b06321e288a946.js": "/precache-manifest.261a9f9a182e789db2b06321e288a946.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4e0e4d8d.chunk.css.map": "/static/css/main.4e0e4d8d.chunk.css.map",
     "static/media/aybertocar.png": "/static/media/aybertocar.d3989c88.png"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a5016f14.js",
     "static/js/2.fbadaeb8.chunk.js",
     "static/css/main.4e0e4d8d.chunk.css",
-    "static/js/main.c3250b94.chunk.js"
+    "static/js/main.2dc6a779.chunk.js"
   ]
 }
